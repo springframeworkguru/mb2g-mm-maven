@@ -51,6 +51,7 @@
                     <sources>
                         <source>src/main/resources/jaxb.xsd</source>
                     </sources>
+                    <packageName>guru.springframework.domain</packageName>
                 </configuration>
             </plugin>
         </plugins>
